@@ -30,8 +30,7 @@ customers faster.
 
 ## c. GitHub repository link
 
-> _Add your GitHub repository link here after pushing the code:_
-> `https://github.com/<your-username>/<your-repo>`
+https://github.com/Zahirgit/german-credit-risk
 
 ## d. Models used and comparison
 
@@ -103,5 +102,4 @@ streamlit run app.py
 
 ## Live Streamlit app link
 
-> _Add your deployed Streamlit Community Cloud link here:_
-> `https://<your-app>.streamlit.app`
+https://german-credit-risk-93qusfjhtzkyrxxpqcbeya.streamlit.app/
