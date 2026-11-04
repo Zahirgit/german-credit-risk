@@ -1,4 +1,4 @@
-# ML Assignment 2 — Binary Classification & Streamlit App (German Credit Risk)
+# ML Assignment — Binary Classification & Streamlit App (German Credit Risk)
 
 An end-to-end machine-learning project that trains **five classification models** on the
 UCI *Statlog German Credit* dataset, evaluates them with six metrics, and serves them through
